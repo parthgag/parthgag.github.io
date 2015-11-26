@@ -6571,6 +6571,12 @@ button.close {
 .visible-print-inline-block {
   display: none !important;
 }
+.bgname{
+padding: 30px 15px;
+  margin-bottom: 30px;
+  color: inherit;
+  background-color: #eee;
+  }
 @media print {
   .visible-print-inline-block {
     display: inline-block !important;
